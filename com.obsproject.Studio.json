@@ -231,7 +231,7 @@
         "-DENABLE_PULSEAUDIO=ON",
         "-DWITH_RTMPS=ON",
         "-DENABLE_WAYLAND=ON",
-        "-DOBS_VERSION_OVERRIDE=26.0.0-rc1"
+        "-DOBS_VERSION_OVERRIDE=26.0.0-rc2-flathub-beta"
       ],
       "post-install": [
         "install -d /app/lib/blackmagic /app/lib/ndi /app/lib/v4l2sink",
@@ -244,7 +244,7 @@
         {
           "type": "git",
           "url": "https://github.com/GeorgesStavracas/obs-studio.git",
-          "tag": "26.0.0-rc1-dmabuf"
+          "tag": "26.0.0-rc2-dmabuf-2"
         }
       ]
     },

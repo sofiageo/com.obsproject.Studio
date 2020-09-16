@@ -255,8 +255,7 @@
       "sources": [
         {
           "type": "git",
-          "url": "https://gitlab.gnome.org/feaneron/obs-xdg-portal.git",
-          "branch": "gbsneto/pipewire"
+          "url": "https://gitlab.gnome.org/feaneron/obs-xdg-portal.git"
         }
       ]
     }
